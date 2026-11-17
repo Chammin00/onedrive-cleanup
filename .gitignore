@@ -1,0 +1,13 @@
+﻿# Runtime and Ledger
+*.log
+clip_upload_ledger.json
+
+# System & Temporary
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Editor & IDE files
+.vscode/
+.idea/
